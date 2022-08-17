@@ -1,5 +1,5 @@
 {
-  "name": "SocialBackend",
+  "name": "social-api",
   "version": "1.0.1",
   "description": "Social Media Backend",
   "main": "index.js",
